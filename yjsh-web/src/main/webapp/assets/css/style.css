@@ -1,0 +1,36 @@
+/*全局*/
+		/*去除火狐浏览器点击超链接产生的黑边*/
+a:focus{outline: none;} 
+		
+	/*nav*/
+.navbar{height: 50px;margin-bottom: 0px;background-color: #FFFFFF;border-bottom-color:#E7E7E7;}
+.navbar-brand{font-size: 25px;}
+.navbar-right{margin-right: 15px;}
+	/*sibar*/
+/*height: 608px;*/
+.sidebar {height: 720px;width: 200px;position: absolute;}
+.sidebar .navbar-default{height: 720px;width: 200px;background-color:#3C454D;}
+.sidebar .navbar-default li a{color: #CCCCFF;}
+.sidebar .navbar-default li a:hover{background-color: #636A71;color: #FFFFFF;}
+.sidebar .navbar-default li a:focus{background-color: #636A71;color: #FFFFFF;}
+.sidebar .navbar-default .open a{background-color: #636A71;color: #FFFFFF;}
+
+/*showspace*/
+#showspace{height:720px;margin-left: 200px;padding: 20px 15px 10px;background-color:#D9E0E7;}
+/*.panel .panel-heading{background-color: #242A30;color: white;}*/
+
+
+/*manage_buy*/
+#package_apply{margin-top: -70px;}
+
+
+
+
+
+
+
+
+
+
+
+
